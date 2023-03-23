@@ -1,0 +1,83 @@
+
+/*  backround Colors*/
+.first-col{
+    background-color:rgb(8, 26, 83)
+}
+
+.second-col{
+    background-color:rgb(111, 141, 194)
+}
+
+.third-col{
+  background-color:rgb(188, 203, 226)
+}
+
+.messages{
+  background-color: rgb(8, 26, 83)
+  
+}
+
+.add-shadown{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+/*  width of column*/
+
+.textcol1{
+  width: 100px;
+
+}
+
+.form-floating{
+  height: 350px;
+    }
+
+.custom-height{
+  height: 200px;
+}
+
+/*  Position of bottom*/
+
+#bottom-position{
+  position: relative;
+top: 10px;
+left: 10px;
+margin:auto;
+
+
+}
+
+
+.textcol1{
+  margin:auto;
+  
+
+}
+
+.messages:hover{
+  transform: scale(1.2);
+  background-color: rgb(125, 185, 231);
+  font-stretch: expanded;
+  color: black;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+  
+
